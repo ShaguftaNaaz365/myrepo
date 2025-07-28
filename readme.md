@@ -51,4 +51,4 @@ I’m a passionate DevOps Engineer with 8.9 years of IT experience, including 5.
 
 📞 Let’s Connect!
 
-🔗 LinkedIn: Your LinkedIn Profile 🌟 GitHub: Your GitHub Profile
+🔗 LinkedIn: Your LinkedIn Profile 🌟 GitHub: https://github.com/ShaguftaNaaz365/myrepo/blob/main/readme.md
